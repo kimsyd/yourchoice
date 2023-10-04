@@ -1,0 +1,40 @@
+.banner {
+  background: url("https://www.85cbakerycafe.com/wp-content/uploads/2022/02/menu-bg.jpg") no-repeat center center fixed;
+  height: 200px;
+  background-size: cover;
+}
+
+.foodtype {
+  color: darkred;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+a {
+  color: darkred;
+}
+
+.vr {
+  margin-right: 20px;
+}
+
+.filter {
+  color: grey;
+  font-weight: bold;
+}
+
+.vr.small {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 2px;
+  height: 30px;
+}
+
+.pastryimg {
+  width: 250px;
+}
+
+.col-sm {
+  text-align: left;
+}
